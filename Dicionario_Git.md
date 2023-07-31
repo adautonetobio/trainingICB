@@ -18,13 +18,13 @@ PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
 
 ## Áreas conceituais
 
-1. **Meu computador:** local de instalação do git.
+1. **Área de desenvolvimento:** onde desenvolvo e salvo meus arquivos 
 
-2. **Área de desenvolvimento:** onde desenvolvo e salvo meus arquivos 
+2. **Repositório local:** onde o git faz a gestão das versões do meu projeto
 
-3. **Repositório local:** onde o git faz a gestão das versões do meu projeto
+3. **Área staging:** local intermediário onde coloco as coisas antes de salvar no meu repositório. 
 
-4. **Área staging:** local intermediário onde coloco as coisas antes de salvar no meu repositório. 
+4. **Repositório remoto:** local criado no GitHub.
 
 
 
