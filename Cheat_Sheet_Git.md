@@ -28,6 +28,8 @@ git remote add <pasta local> <ssh do repositório remoto> : cria a ponte entre o
 
 git push: envia todos os arquivos do repositório para repositório remoto no GitHub 
 
+git pull: importar arquivos do GitHub para repositório local.
+
 ## **Rotina básica de enriquecimento da timeline***
 
 
