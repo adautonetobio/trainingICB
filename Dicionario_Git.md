@@ -6,6 +6,14 @@ Git: ferramenta de repositório local de projetos e suas versões.
 
 GitHub: plataforma de armazenamento e backup dos repositórios Git em nuvem.
 
+Commit: comando para organizar os arquivos da staging area no repositório local.
+
+ReadMe file: arquivo obrigatório descrevendo detalhadamente o projeto
+
+.gitignore: arquivo oculto onde você pode indicar todos os arquivos que não devem ser disponibilizados no GitHub
+
+PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
+
 
 
 ## Áreas conceituais
