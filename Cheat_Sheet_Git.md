@@ -24,7 +24,9 @@ git show <commit ID1> <commit ID2>: compara os commits selecionados, igual ao gi
 
 git diff <commit ID1> <commit ID2>: compara os commits desejados.
 
+git remote add <pasta local> <ssh do repositório remoto> : cria a ponte entre o repositório local e o repositório virtual (criado no GitHub>Meus repositórios)
 
+git push: envia todos os arquivos do repositório para repositório remoto no GitHub 
 
 ## **Rotina básica de enriquecimento da timeline***
 
