@@ -12,7 +12,7 @@ git add <name file>: adiciona um arquivo no purgatório (stating area)
 
 git commit -m "mensagem significativa": você se compromete com essa atualização que criei uma versão do meu repositório. PS: porque, como, efeitos, limitações.
 
-PS: se esquecer do -m, 
+PS: se esquecer do -m, é aberto o editor nativo do Git (VI editor), neste caso é necessário digitar primeiro "i" seguido de "ESC" para inserção, sendo possível escrever múltiplos parágrafos. Para sair: ESC seguido de :wq+ENTER
 
 giy status: verifica as áreas conceituais e informa o status de cada arquivo nas áreas - untracked (desenvolvimento), not commit (purgatório),
 
