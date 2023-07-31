@@ -1,0 +1,1 @@
+O presente diretório trata-se do projeto criado para vivência e imersão do Curso Git&GitHub ministrado pela Dra. Bruno Piereck, ofertado pela VIB e Elixir Belgum, no período de 31/7 a 1/8/2023. O evento foi organizado pelo Dr. João Pacífico, do Instituto de Ciências Biológicas, em parceria com a ministrante.
