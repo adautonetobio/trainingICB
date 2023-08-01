@@ -30,4 +30,8 @@ git push: envia todos os arquivos do repositório para repositório remoto no Gi
 
 git pull: importar arquivos do GitHub para repositório local.
 
+git branch: cria um local paralelo 
+
+Git checkout: entrar nesse local paralelo
+
 ## **Rotina básica de enriquecimento da timeline***
