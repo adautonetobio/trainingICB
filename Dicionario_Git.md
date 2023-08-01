@@ -34,3 +34,9 @@ Para realizar a colaboração é necessário enviar um  email convidando a pesso
 # Espelhamento
 
 O git faz o espelhamento na pasta do projeto conforme a pasta que está sendo desenvolvido.
+
+
+
+# Forking
+
+Permite criar um repositorio próprio a partir de um repositório público no GitHub. Também permite solicitar mesclar com o proprietário original, caso ele tenha interesse. Comandos executáveis a partir do GitHub. 
