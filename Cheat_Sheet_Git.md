@@ -30,6 +30,7 @@ PS: se esquecer do -m, é aberto o editor nativo do Git (VI editor), neste caso 
 
 **git pull:** importar arquivos do GitHub para repositório local.
 
+<<<<<<< HEAD
 **git branch <name>:** criar experimento/timeline paralela livre de risco.
 
 PS: para ver todos os branches use o comando **git branch --list**
@@ -40,6 +41,8 @@ PS: para ver todos os branches use o comando **git branch --list**
 
 **git checkout <id commit> :** viajar entre commits na mesma time line.
 
-
-
 ## **Rotina básica de enriquecimento da timeline**
+
+git branch: cria um local paralelo 
+
+Git checkout: entrar nesse local paralelo
