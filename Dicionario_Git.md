@@ -27,3 +27,9 @@ PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
 # Colaboração
 
 Para realizar a colaboração é necessário enviar um  email convidando a pessoa para colaboração através do seu github, o parceiro aceito o convite, sera aberto o git bash conferindo se todos os arquivos estão atualizados com o comando git status e após essa etapa utilizar o git clone colocando como o endereço ssh do seu colaborador para ter acesso as pastas e versões produzidos por ele.
+
+
+
+**Ao amigo Ayug**
+
+Querido amigo pegue leve com o caos na timeline do meu repositório.
