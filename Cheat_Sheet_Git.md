@@ -41,6 +41,12 @@ PS: para ver todos os branches use o comando **git branch --list**
 
 **git checkout <id commit> :** viajar entre commits na mesma time line.
 
+**git merge <name branch>:** mescla o branch com o master.
+
+**git tag <name>:** cria uma etiqueta no commit de interesse.
+
+
+
 ## **Rotina básica de enriquecimento da timeline**
 
 git branch: cria um local paralelo 
