@@ -31,7 +31,3 @@ git push: envia todos os arquivos do repositório para repositório remoto no Gi
 git pull: importar arquivos do GitHub para repositório local.
 
 ## **Rotina básica de enriquecimento da timeline***
-
-
-
-
