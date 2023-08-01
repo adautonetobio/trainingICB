@@ -2,15 +2,15 @@
 
 ## Dicionário
 
-Git: ferramenta de repositório local de projetos e suas versões.
+**Git:** ferramenta de repositório local de projetos e suas versões.
 
-GitHub: plataforma de armazenamento e backup dos repositórios Git em nuvem.
+**GitHub:** plataforma de armazenamento e backup dos repositórios Git em nuvem.
 
-Commit: comando para organizar os arquivos da staging area no repositório local.
+**Commit:** comando para organizar os arquivos da staging area no repositório local.
 
-ReadMe file: arquivo obrigatório descrevendo detalhadamente o projeto
+**ReadMe file:** arquivo obrigatório descrevendo detalhadamente o projeto
 
-.gitignore: arquivo oculto onde você pode indicar todos os arquivos que não devem ser disponibilizados no GitHub
+**.gitignore:** arquivo oculto onde você pode indicar todos os arquivos que não devem ser disponibilizados no GitHub
 
 PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
 
@@ -27,7 +27,6 @@ PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
 # Colaboração
 
 Para realizar a colaboração é necessário enviar um  email convidando a pessoa para colaboração através do seu github, o parceiro aceito o convite, sera aberto o git bash conferindo se todos os arquivos estão atualizados com o comando git status e após essa etapa utilizar o git clone colocando como o endereço ssh do seu colaborador para ter acesso as pastas e versões produzidos por ele.
-
 
 
 Querido amigo Adalto, a facepe não depositou a minha mesada
