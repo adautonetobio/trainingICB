@@ -14,8 +14,6 @@ ReadMe file: arquivo obrigatório descrevendo detalhadamente o projeto
 
 PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
 
-
-
 ## Áreas conceituais
 
 1. **Área de desenvolvimento:** onde desenvolvo e salvo meus arquivos 
@@ -25,6 +23,10 @@ PS: Manter o backup dos arquivos em local seguro (não serão upload no GitHub).
 3. **Área staging:** local intermediário onde coloco as coisas antes de salvar no meu repositório. 
 
 4. **Repositório remoto:** local criado no GitHub.
+
+# Colaboração
+
+Para realizar a colaboração é necessário enviar um  email convidando a pessoa para colaboração através do seu github, o parceiro aceito o convite, sera aberto o git bash conferindo se todos os arquivos estão atualizados com o comando git status e após essa etapa utilizar o git clone colocando como o endereço ssh do seu colaborador para ter acesso as pastas e versões produzidos por ele.
 
 
 
