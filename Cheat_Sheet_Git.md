@@ -30,4 +30,10 @@ git push: envia todos os arquivos do repositório para repositório remoto no Gi
 
 git pull: importar arquivos do GitHub para repositório local.
 
-## **Rotina básica de enriquecimento da timeline***
+git branch <name>: criar experimento/timeline paralela livre de risco.
+
+git clone: recuperar repositório do GitHub incluíndo em colaboração.
+
+git checkout: viajar entre timeline paralelas ou entre commits na mesma time line.
+
+## **Rotina básica de enriquecimento da timeline**
